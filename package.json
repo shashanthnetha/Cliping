@@ -47,7 +47,7 @@
     "undici": "^6.28.1"
   },
   "devDependencies": {
-    "@electron-toolkit/eslint-config-ts": "^3.0.0",
+    "@electron-toolkit/eslint-config-ts": "^4.0.0",
     "@hello-pangea/dnd": "^18.0.1",
     "@types/node": "^22.10.0",
     "@types/react": "^19.0.0",
