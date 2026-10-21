@@ -138,3 +138,4 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) for the full policy and follow the [code
 ## License
 
 [MIT](LICENSE) © BridgeMind
+# Cliping
